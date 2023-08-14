@@ -1,0 +1,2 @@
+class Meshitterro < ApplicationRecord
+end
