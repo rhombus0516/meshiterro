@@ -14,6 +14,7 @@ class PostImageController < ApplicationController
   end
 
   def show
+    @post_comment = PostComment.new
   end
   
   private
